@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/AuthServer/AuthServer?WSDL" uri="src/conf/xml-resources/web-services/AuthService/wsdl/localhost_8080/AuthServer/AuthServer.wsdl"/>
+    <system systemId="http://localhost:8080/AuthServer/AuthServer?wsdl" uri="src/conf/xml-resources/web-service-references/AuthServer/wsdl/localhost_8080/AuthServer/AuthServer.wsdl"/>
+    <system systemId="http://localhost:8080/AuthServer/AuthServer?xsd=1" uri="src/conf/xml-resources/web-service-references/AuthServer/wsdl/localhost_8080/AuthServer/AuthServer.xsd_1.xsd"/>
+    <system systemId="http://localhost:42150/AuthServer/AuthServer?wsdl" uri="src/conf/xml-resources/web-service-references/AuthServer/wsdl/localhost_42150/AuthServer/AuthServer.wsdl"/>
+    <system systemId="http://localhost:42150/AuthServer/AuthServer?xsd=1" uri="src/conf/xml-resources/web-service-references/AuthServer/wsdl/localhost_42150/AuthServer/AuthServer.xsd_1.xsd"/>
+</catalog>
